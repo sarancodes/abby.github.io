@@ -7,7 +7,7 @@
 ## WEBSITE 
 This is the website link for [Abby](https://saran-codes.github.io/abby.github.io/)
 
-Similarly you can deploy your own custom chatbot.
+Similarly you can deploy your own custom chatbot using the css and javascript
 
 
 
