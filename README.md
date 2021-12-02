@@ -5,7 +5,7 @@
 - You can also fork or clone this repo and create like this in your own webpages.
 
 ## WEBSITE 
-This is the website link for [Abby](https://saran-codes.github.io/abby.github.io/)
+This is the website link for [Abby](https://sarancodes.github.io/abby.github.io/)
 
 Similarly you can deploy your own custom chatbot using the css and javascript
 
